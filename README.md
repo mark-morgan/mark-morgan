@@ -26,8 +26,8 @@ Get in touch with me on [District5](https://district5.co.uk/contact-us)'s websit
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  </div>
 <div>
-    <img src = "https://img.shields.io/badge/Phpstorm-000000?style=for-the-badge&logo=phpstorm" />
-    <img src = "https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm" />
+    <img src="https://img.shields.io/badge/Phpstorm-000000?style=for-the-badge&logo=phpstorm" />
+    <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm" />
 </div>
 <div>
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
