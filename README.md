@@ -1,6 +1,6 @@
 ## Hi, I'm Mark
 
-I'm a software developer and Co-Owner of [District5](https://district5.co.uk), a software development studio that builds bespoke solutions for customers. I have a degree in Computer Science and Software Engineering, but the real world is far more fun than University!
+I'm a software developer and Co-Owner of [District5](https://district5.co.uk), a software development studio that builds bespoke solutions for customers. I have a degree in Computer Science and Software Engineering, but the real world is far more rewarding and technical than University!
 
 I specialise in designing and building high performance backend systems and API's. I also have experience up to C level management and have fulfilled roles 'as a service' while working at [District5](https://district5.co.uk) as CTO's for startups and Tech Leads for businesses requiring leadership for existing software teams.
 
